@@ -41,6 +41,9 @@
     "vulcanize": ">= 1.4.2",
     "web-component-tester": "^3.4.0"
   },
+  "dependencies": {
+    "octonode": "latest"
+  },
   "engines": {
     "node": ">=0.10.0"
   }
